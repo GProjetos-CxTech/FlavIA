@@ -1,2 +1,2 @@
-<img width="1474" height="557" alt="{B36099B4-2D41-46F6-8D98-82F42764E94F}" src="https://github.com/user-attachments/assets/fadfec6c-bc13-4cc9-a91b-607f8c8ddfa5" /># FlavIA
+<img width="1885" height="744" alt="{96F68841-C268-4F47-B2BD-1BC2D8E3ACCF}" src="https://github.com/user-attachments/assets/d8c9e4b4-06bf-463a-a727-843451387507" />
 Guia de treinamento FlavIA Agent — Gestão de Projetos. Tutorial visual para times que operam a agente via WhatsApp Flavia.
